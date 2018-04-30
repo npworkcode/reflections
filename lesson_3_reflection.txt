@@ -21,7 +21,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    This allows a fast forward merge to take place, where any commit made will be an ancestor
+	of the last know commit from the remote. Therefore it allows a fast forward merge to take place
+	any time in the future.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
