@@ -78,3 +78,8 @@ To fix this, Windows users should set the global autocrlf attribute to true: git
 
 Comparing a commit to its parent
 The command Caroline mentions to compare a commit to its parent is git show commit_id
+
+git remote
+git remote add origin https://github.com/npworkcode/reflections.git
+git remote
+git remote -v
