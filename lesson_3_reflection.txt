@@ -6,7 +6,9 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    The code may not be production ready, therefore if there is an automatic pull,
+	the code in the repository will not run. Therefore with a manual push, when
+	the code is sufficiently tested and working properly. It can be pushed to the repository.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
